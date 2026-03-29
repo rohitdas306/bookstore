@@ -1,4 +1,4 @@
-# 📚 Bookstore Management System
+# 📚 Bookstore System
 
 ## 📌 Overview
 This is a backend REST API project built using Java and Spring Boot to manage books. It supports creating, updating, deleting and viewing books.
