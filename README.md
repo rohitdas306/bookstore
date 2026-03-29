@@ -43,19 +43,19 @@ APIs tested using Postman.
 ## 📸 Screenshots
 
 ### Create Book (POST)
-![Create Book](screenshots/create-book.png)
+![Create Book](Screenshot/create-book.png)
 
 ### Get All Books (GET)
-![Get All Books](screenshots/get-books.png)
+![Get All Books](Screenshot/get-books.png)
 
 ### Get Book by ID (GET)
-![Get Book By ID](screenshots/get-book-by-id.png)
+![Get Book By ID](Screenshot/get-book-by-id.png)
 
 ### Update Book (PUT)
-![Update Book](screenshots/update-book.png)
+![Update Book](Screenshot/update-book.png)
 
 ### Delete Book (DELETE)
-![Delete Book](screenshots/delete-book.png)
+![Delete Book](Screenshot/delete-book.png)
 
 ---
 
