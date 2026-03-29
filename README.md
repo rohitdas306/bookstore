@@ -9,7 +9,7 @@ This is a backend REST API project built using Java and Spring Boot to manage bo
 - Java
 - Spring Boot
 - Spring Data JPA (Hibernate)
-- PostgreSQL / MySQL
+- MySQL
 - Maven
 
 ---
@@ -43,19 +43,19 @@ APIs tested using Postman.
 ## 📸 Screenshots
 
 ### Create Book (POST)
-![Create Book](create-book.png)
+![Create Book](screenshots/create-book.png)
 
 ### Get All Books (GET)
-![Get All Books](get-books.png)
+![Get All Books](screenshots/get-books.png)
 
 ### Get Book by ID (GET)
-![Get Book By ID](get-book-by-id.png)
+![Get Book By ID](screenshots/get-book-by-id.png)
 
 ### Update Book (PUT)
-![Update Book](update-book.png)
+![Update Book](screenshots/update-book.png)
 
 ### Delete Book (DELETE)
-![Delete Book](delete-book.png)
+![Delete Book](screenshots/delete-book.png)
 
 ---
 
